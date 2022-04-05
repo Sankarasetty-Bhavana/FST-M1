@@ -7,7 +7,7 @@ def test_addition():
     
 	sum = num1 + num2
 
-	assert sum == 25
+	assert sum == 30
 
 def test_subtraction():
  
